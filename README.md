@@ -5,7 +5,7 @@ A temporary repository to collaborate on the DataAnalytics projects
 1. Don't push trash-files to this repo.
 2. Let the team know which part you will be editing.
 2. Commit often but push sparingly.
-
+---
 34. Rule34 is life
 
 ## Workflow
