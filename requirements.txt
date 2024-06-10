@@ -1,5 +1,3 @@
-git
-jupyter
 pandas
 numpy
 seaborn
